@@ -1,0 +1,8 @@
+java com.kyumdroid.study.network.ChatServer 8181
+
+java com.kyumdroid.study.network.ChatClient 127.0.0.1 8181 cho
+
+
+java com.kyumdroid.study.test.Server 8181
+
+java com.kyumdroid.study.test.Client 127.0.0.1 8181 cho
