@@ -1,0 +1,5 @@
+java -cp C:\workspace\CustomJavaStudy\bin\ com.kyumdroid.customstudy.network.ChatServer
+
+
+
+java -cp C:\workspace\CustomJavaStudy\bin\ com.kyumdroid.customstudy.network.ChatClient
